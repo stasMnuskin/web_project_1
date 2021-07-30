@@ -185,7 +185,7 @@
   margin: 0 0 20px;
 }
 
-.table-text:last-child {
+.table__text:last-child {
   margin: 0;
 }
 
