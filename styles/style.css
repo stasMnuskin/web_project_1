@@ -480,6 +480,29 @@
   z-index: 0;
 }
 
+
+.resources {
+  padding: 100px 0 217px;
+}
+
+.resources__logo-zone {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+  margin: 80px auto 0;
+  width: 110px;
+}
+
+.resources__logo {
+  margin: 0;
+}
+
+.resources__logo-image {
+  width: 270px;
+  height: 38px;
+}
+
 .footer {
   display: flex;
   color: white;
