@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   width: 920px;
   list-style: none;
-  padding-top: 60px;
+  padding: 60px 0 0;
   margin: 0 auto 100px;
   align-items: baseline;
   gap: 60px 100px;

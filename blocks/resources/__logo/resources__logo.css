@@ -1,6 +1,7 @@
 .resources__logo {
   margin: 0;
   opacity: 1;
+  transition: opacity .5s linear;
 }
 
 .resources__logo:hover {
